@@ -1,6 +1,6 @@
 Requisitos
 ==========
-Para esse projeto é necessário instalar o java jdk-17, eclipse, postgreSQL(pgAdmin 4) postman.
+Para esse projeto é necessário instalar o java jdk-17, eclipse, postgreSQL 15 (pgAdmin 4) e postman.
 Utilizei o Spring Boot - https://start.spring.io/
 
 Projeto - Maven
